@@ -9,4 +9,6 @@
 
 <li><a href = « https://github.com/KasyanovK/works/tree/main/real_estate»>Исследование объявлений о продаже квартир</a> - библиотеки Pandas, Matplotlib.</li>
 
+<li><a href = « https://github.com/KasyanovK/works/tree/main/churn»>Анализ оттока клиентов фитнес-клуба</a> - библиотеки Pandas, Matplotlib.</li>
+
 </ul>
