@@ -1,6 +1,6 @@
 ## Проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессия "Аналитик данных»
 
-<a href = « https://github.com/KasyanovK/works/tree/main/E_Commerce»>Выявление профилей потребления</a>
+<a href = « https://github.com/KasyanovK/works/tree/main/E_Commerce»> Выявление профилей потребления </a>
 
 <ul>
 <li><a href = « https://github.com/KasyanovK/works/tree/main/E_Commerce»>Выявление профилей потребления</a> - библиотеки Pandas, Matplotlib, Plotly, Scipy;</li>
