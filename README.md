@@ -1,18 +1,9 @@
 ## Проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессия "Аналитик данных»
 
-[Выявление профилей потребления](https://github.com/KasyanovK/works/tree/main/E_Commerce) - библиотеки Pandas, Matplotlib, Plotly, Scipy;
-
-<ul>
-<li></li>
-<li><a href = « https://github.com/KasyanovK/works/tree/main/Games»>Выявление перспективных компьютерных игр</a> - библиотеки Pandas, Matplotlib, Plotly, Scipy;</li>
-<li><a href = « https://github.com/KasyanovK/works/tree/main/abtest»>A/A/B эксперимент</a> - библиотеки Pandas, Seaborn, Scipy, Math, Plotly;</li>
-
-<li><a href = « https://github.com/KasyanovK/works/tree/main/roi_ltv_cac»>Оценка окупаемости рекламы</a> - библиотеки Pandas, Datetime, Matplotlib;</li>
-
-<li><a href = « https://github.com/KasyanovK/works/tree/main/real_estate»>Исследование объявлений о продаже квартир</a> - библиотеки Pandas, Matplotlib;</li>
-
-<li><a href = « https://github.com/KasyanovK/works/tree/main/churn»>Анализ оттока клиентов фитнес-клуба</a> - библиотеки Pandas, Sklearn, Scipy, Seaborn;</li>
-
-<li><a href = « https://github.com/KasyanovK/works/tree/main/Restraunts»>Анализ рынка общественного питания Москвы</a> - библиотеки Pandas, Seaborn, Matplotlib.</li>
-
-</ul>
+[Выявление профилей потребления](https://github.com/KasyanovK/works/tree/main/E_Commerce) - Pandas, Matplotlib, Plotly, Scipy;
+[Выявление перспективных компьютерных игр](https://github.com/KasyanovK/works/tree/main/Games) - Pandas, Matplotlib, Plotly, Scipy;
+[A/A/B эксперимент](https://github.com/KasyanovK/works/tree/main/abtest) - Pandas, Seaborn, Scipy, Math, Plotly;
+[Оценка окупаемости рекламы](https://github.com/KasyanovK/works/tree/main/roi_ltv_cac) - Pandas, Datetime, Matplotlib;
+[Исследование объявлений о продаже квартир](https://github.com/KasyanovK/works/tree/main/real_estate) - Pandas, Matplotlib;
+[Анализ оттока клиентов фитнес-клуба](https://github.com/KasyanovK/works/tree/main/churn) - Pandas, Sklearn, Scipy, Seaborn;
+[Анализ рынка общественного питания Москвы](https://github.com/KasyanovK/works/tree/main/Restraunts) - Pandas, Seaborn, Matplotlib
