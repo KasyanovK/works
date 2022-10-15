@@ -1,4 +1,4 @@
-## Проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессия "Аналитик данных»
+### Проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессия "Аналитик данных»
 
 [Выявление профилей потребления](https://github.com/KasyanovK/works/tree/main/E_Commerce) - Pandas, Matplotlib, Plotly, Scipy;<br>
 [Выявление перспективных компьютерных игр](https://github.com/KasyanovK/works/tree/main/Games) - Pandas, Matplotlib, Plotly, Scipy;<br>
