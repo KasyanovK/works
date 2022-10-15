@@ -1,7 +1,9 @@
 ## Проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессия "Аналитик данных»
 
+[Выявление профилей потребления](https://github.com/KasyanovK/works/tree/main/E_Commerce) - библиотеки Pandas, Matplotlib, Plotly, Scipy;
+
 <ul>
-<li>[Выявление профилей потребления](https://github.com/KasyanovK/works/tree/main/E_Commerce) - библиотеки Pandas, Matplotlib, Plotly, Scipy;</li>
+<li></li>
 <li><a href = « https://github.com/KasyanovK/works/tree/main/Games»>Выявление перспективных компьютерных игр</a> - библиотеки Pandas, Matplotlib, Plotly, Scipy;</li>
 <li><a href = « https://github.com/KasyanovK/works/tree/main/abtest»>A/A/B эксперимент</a> - библиотеки Pandas, Seaborn, Scipy, Math, Plotly;</li>
 
