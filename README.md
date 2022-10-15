@@ -6,4 +6,7 @@
 <li><a href = « https://github.com/KasyanovK/works/tree/main/abtest»>A/A/B эксперимент</a> - библиотеки Pandas, Seaborn, Scipy, Math, Plotly;</li>
 
 <li><a href = « https://github.com/KasyanovK/works/tree/main/roi_ltv_cac»>Оценка окупаемости рекламы</a> - библиотеки Pandas, Datetime, Matplotlib.</li>
+
+<li><a href = « https://github.com/KasyanovK/works/tree/main/real_estate»>Исследование объявлений о продаже квартир</a> - библиотеки Pandas, Matplotlib.</li>
+
 </ul>
