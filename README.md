@@ -1,3 +1,5 @@
+### Константин Касьянов - Data Analyst
+
 ### Проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессия "Аналитик данных»
 
 [Выявление профилей потребления](https://github.com/KasyanovK/works/tree/main/E_Commerce) - Pandas, Matplotlib, Plotly, Scipy;<br>
